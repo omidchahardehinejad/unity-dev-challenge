@@ -16,7 +16,6 @@ Task 1:
 Add some folders to the project and give a clear structure to the assets.
 
 Task 2:
-
 Create the globe at the position the user is pointing and clicking at
 and move it to new position if it has already been placed.
 (mouse on desktop, touch on ar, click on vr)
