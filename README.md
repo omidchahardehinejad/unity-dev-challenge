@@ -13,7 +13,9 @@ The project then should include all files and sdks necessary to build for the ta
 
 
 Task 1:
-Add some folders to the project and give a clear structure to the assets.
+Download the project from here, add some folders to the project,
+give a clear structure to the assets and upload it to your github account
+as public so we can access it, when you are done.
 
 Task 2:
 Create the globe at the position the user is pointing and clicking at
@@ -33,6 +35,9 @@ and southern and western hemisphere values are negative.
 Task 5:
 Create markers with the name of the cities on the globe based on the entries of geolocations.
 (the names should be visible somehow on the globe, yes)
+
+Task 6:
+Upload your project into your github account and make it public so we can access it when you are done.
 
 
 Judgement will be solely based on methodology, not on design, so do not waste time there.
